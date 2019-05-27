@@ -22,4 +22,4 @@ A step by step guide to Python, a language that is easy to pick up yet one of th
 
 Name | Preview | Code | Difficulty
 ---- | ------- | ---- | ----------
-[Packing similar rectangles in a rectangle](https://www.hackerrank.com/challenges/validating-credit-card-number)|Verify whether credit card numbers are valid or not.|[Python](../python/py-regex/validating-credit-card-number.py)|Medium
+[Packing similar rectangles in a rectangle](https://www.hackerrank.com/challenges/validating-credit-card-number)|Verify how many identical rectangles fit in a rectangle.|[Python](../python/py-regex/validating-credit-card-number.py)|Easy
