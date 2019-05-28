@@ -1,12 +1,15 @@
 # CodingDojo
+
 Improve your python skills
 
 ![](https://cdn3.volusion.com/mexwq.hxrfd/v/vspfiles/photos/DOJO1-2T.jpg?1517510415)
 
 ## Introduction
+
 Dojo coding is a meeting between several people who wish to work on a programming challenge collectively.
 The challenge may be an algorithmic problem to be solved or a need to be implemented. Each dojo coding focuses on a particular subject, and represents the objective of the session.
-##  Languages, tools and IDEs
+
+## Languages, tools and IDEs
 
 - [Python](https://www.python.org)
 - Web browser and Internet connection
@@ -16,6 +19,7 @@ The challenge may be an algorithmic problem to be solved or a need to be impleme
 ## Challenging tasks 
 
 ### [Python](https://www.hackerrank.com/domains/python)
+
 A step by step guide to Python, a language that is easy to pick up yet one of the most powerful.
 
 #### [Packing problems](https://en.wikipedia.org/wiki/Packing_problems)
