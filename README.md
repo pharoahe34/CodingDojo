@@ -37,7 +37,7 @@ The main interest of coding dojos is to learn new techniques, either through the
 
 Here you will find a step by step guide to [Python](https://www.hackerrank.com/domains/python), a language that is easy to pick up yet one of the most powerful.
 
-#### Example of challenges
+### Example of challenges
 
 Name | Preview | Code | Difficulty
 ---- | ------- | ---- | ----------
