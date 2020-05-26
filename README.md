@@ -27,12 +27,13 @@ The main interest of coding dojos is to learn new techniques, either through the
 
 ## Challenging tasks
 
-### [Python](https://www.hackerrank.com/domains/python)
+### Starting with python
 
-A step by step guide to Python, a language that is easy to pick up yet one of the most powerful.
+Here you will find a step by step guide to [Python](https://www.hackerrank.com/domains/python), a language that is easy to pick up yet one of the most powerful.
 
-#### [Packing problems](https://en.wikipedia.org/wiki/Packing_problems)
+#### Example of challenges
 
 Name | Preview | Code | Difficulty
 ---- | ------- | ---- | ----------
-[Packing similar rectangles in a rectangle](https://www.hackerrank.com/challenges/validating-credit-card-number)|Verify how many identical rectangles fit in a rectangle.|[Python](../python/py-regex/validating-credit-card-number.py)|Easy
+[Packing similar rectangles in a rectangle](https://en.wikipedia.org/wiki/Packing_problems)|Verify how many identical rectangles fit in a rectangle.|[Python](../python/py-regex/validating-credit-card-number.py)|Easy
+[Validating credit card number](https://www.hackerrank.com/challenges/validating-credit-card-number)| |Python|Normal
