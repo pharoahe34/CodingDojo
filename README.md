@@ -18,6 +18,12 @@ One person demonstrates to the rest of the group from scratch how to solve the p
 
 The main interest of coding dojos is to learn new techniques, either through the knowledge of others, or by progressing together when faced with a problem. These sessions allow you to test and perfect techniques in a safe way, while sharing your knowledge with other members.
 
+## Further Reading
+
+* [Coding Dojo](http://codingdojo.org/)
+* [How to start a Coding Dojo](http://johannesbrodwall.com/2011/12/18/how-to-start-a-coding-dojo/)
+* [We need realistic Coding Dojos](https://zsoltfabok.com/blog/2012/04/we-need-realistic-coding-dojos/)
+
 ## Languages, tools and IDEs
 
 * [Python](https://www.python.org)
